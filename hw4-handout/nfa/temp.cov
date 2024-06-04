@@ -1,0 +1,9 @@
+mode: set
+hw1/nfa/nfa.go:29.8,30.21 1 1
+hw1/nfa/nfa.go:34.2,36.57 2 1
+hw1/nfa/nfa.go:43.2,45.20 2 1
+hw1/nfa/nfa.go:50.2,50.14 1 1
+hw1/nfa/nfa.go:30.21,32.3 1 1
+hw1/nfa/nfa.go:36.57,42.3 2 1
+hw1/nfa/nfa.go:45.20,46.8 1 1
+hw1/nfa/nfa.go:46.8,48.4 1 1
